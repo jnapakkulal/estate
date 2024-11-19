@@ -13,7 +13,7 @@
                 <li><a href="{{ route('about') }}">About</a></li>
                 <li><a href="{{ route('services') }}">Services</a></li>
                 <li><a href="{{ route('properties') }}">Properties</a></li>
-                <li><a href="{{ route('agents') }}">Agents</a></li>
+                <li><a href="{{ route('agents') }}">Agent</a></li>
                 <!--<li class="dropdown"><a href="#"><span>Dropdown</span> <i
                             class="bi bi-chevron-down toggle-dropdown"></i></a>
                     <ul>
